@@ -7,8 +7,7 @@ This is my personal portfolio website where I showcase my projects, skills, and 
 ## Technologies Used
 
 - HTML5  
-- CSS3  
-- Vanilla JavaScript  
+- CSS3    
 
 ## How to Run the Project Locally
 
